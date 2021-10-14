@@ -22,7 +22,7 @@ ProdigitBot to Book Classes for Uni
         
  - Follow the steps and you're done
 
-#Tips 
+# Tips 
   - If any error occur please let me know and I'll fix it 
   - __Very Important__ 
       - When the bot Asks you to input the class code copy and insert the whole line. 
