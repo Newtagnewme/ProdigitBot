@@ -1,0 +1,31 @@
+{
+    "CU028" : {
+        "Monday" : {
+            "Start" : "08:00", 
+            "EndTime" : "13:00"
+        }, 
+        "Tuesday" : {
+            "Start" : "08:00", 
+            "EndTime" : "14:00"
+        }, 
+        "Wednesday" : {
+            "Start" : "08:00", 
+            "EndTime" : "13:00"
+        }, 
+        "Friday" : {
+            "Start" : "08:00", 
+            "EndTime" : "12:00"
+        }
+    },
+
+    "RM025" : {
+        "Wednesday" : {
+            "Start" : "13:00", 
+            "EndTime" : "16:00"
+        },
+        "Friday" : {
+            "Start" : "12:00", 
+            "EndTime" : "14:00"
+        }
+    }
+}
